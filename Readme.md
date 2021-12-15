@@ -91,6 +91,14 @@ A number of users have reported receiving the recommended diode board from vario
 
 The large triangular part of the diode, should be soldered to the positive side of the board not the negative. If yours is orientated as above, you should desolder the photodiode invert it and resolder so the larger triangular part of the diode is connected to positive.
 
+### Adjusting the diode to fit the sensor case
+
+The sensor diode needs to be adjusted/bent in order to properly fit the 3d printable case.
+
+<p align="center">
+  <img src="static/images/adjusted_board_sensor.jpg">
+</p>
+
 ## License
 
 MIT License
